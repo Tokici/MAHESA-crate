@@ -1,11 +1,11 @@
 ---
 name: PiggyCrates
 main: DaPigGuy\PiggyCrates\PiggyCrates
-version: 3.0.1
+version: 1.0.0
 api:
 - 4.0.0
 load: POSTWORLD
-author: DaPigGuy
+author: DaPigGuy remake by Tokici
 softdepend:
 - PiggyCustomEnchants
 website: https://github.com/DaPigGuy/PiggyCrates/
